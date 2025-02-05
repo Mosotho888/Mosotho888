@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there, I'm Tebogo Mofokeng 👋<br>🌱 I’m currently working on an IT Logging System API project using Java, Spring Boot, and PostgreSQL, with JWT authentication and role-based access control.<br>💼 Experienced in Software Development<br>🎓 I hold a BSc Honours in Computer Science and IT, with a passion for backend development.<br>🚀 Exploring Machine Learning and DevOps to expand my skill set.<br>Let’s connect and collaborate!
+Hi there, I'm Tebogo Mofokeng 👋<br>🌱 I’m currently working on an IT Logging System API project using Java, Spring Boot, and PostgreSQL, with JWT authentication and role-based access control. [![The project](https://github.com/Mosotho888/GovHelp_Desk)
+<br>💼 Experienced in Software Development<br>🎓 I hold a BSc Honours in Computer Science and IT, with a passion for backend development.<br>🚀 Exploring Machine Learning and DevOps to expand my skill set.<br>Let’s connect and collaborate!
 
 
 ## 🌐 Socials:
