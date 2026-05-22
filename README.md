@@ -1,25 +1,143 @@
-# 💫 About Me:
-Hi there, I'm Tebogo Mofokeng 👋<br>🌱 I’m currently working on an IT Logging System API project using Java, Spring Boot, and PostgreSQL, with JWT authentication and role-based access control. [![The project](https://github.com/Mosotho888/GovHelp_Desk)
-<br>💼 Experienced in Software Development<br>🎓 I hold a BSc Honours in Computer Science and IT, with a passion for backend development.<br>🚀 Exploring Machine Learning and DevOps to expand my skill set.<br>Let’s connect and collaborate!
+<div align="center">
 
+# Tebogo Given Mofokeng
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tebohogivenmofokeng) 
+**Backend Developer · Java & Spring Boot · Cloud-Native**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mosotho888&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mosotho888&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosotho888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 Johannesburg, Gauteng, South Africa
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mosotho888&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tebohogivenmofokeng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tebohogivenmofokeng)
+[![GitHub](https://img.shields.io/badge/GitHub-Mosotho888-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mosotho888)
+[![Email](https://img.shields.io/badge/Email-tebohogivenmofokeng%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tebohogivenmofokeng@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mosotho888&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mosotho888&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+BSc Honours graduate in Computer Science (NWU) building production-style backend systems with Java, Spring Boot, and Oracle Cloud Infrastructure. Four Oracle OCI certifications spanning DevOps, development, architecture, and foundations. Currently seeking a software engineering role where I can contribute clean, maintainable code and keep growing under experienced technical leads.
+
+---
+
+## 🏅 Oracle Cloud Infrastructure Certifications
+
+| Certification | Level | Issued | Valid Until |
+|---|---|---|---|
+| OCI 2025 Certified DevOps Professional | Professional | Oct 2025 | Oct 2027 |
+| OCI 2025 Certified Developer Professional | Professional | Oct 2025 | Oct 2027 |
+| OCI 2025 Certified Architect Associate | Associate | Sep 2025 | Active |
+| OCI 2025 Certified Foundations Associate | Associate | Jul 2025 | Jul 2027 |
+
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20DevOps%20Professional-C74634?style=flat&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20Developer%20Professional-C74634?style=flat&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20Architect%20Associate-C74634?style=flat&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-C74634?style=flat&logo=oracle&logoColor=white)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-Primary-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Cloud & DevOps**
+
+![OCI](https://img.shields.io/badge/Oracle%20OCI-C74634?style=flat&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Testing & Tooling**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### [GovHelp Desk — IT Helpdesk & Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
+
+> Production-style REST API independently designed, built, tested, and containerised.
+
+- 🔐 JWT authentication and role-based access control (RBAC)
+- 📨 Asynchronous messaging via RabbitMQ between services
+- 🐳 Containerised infrastructure with Docker Compose
+- 📄 20+ RESTful endpoints fully documented with Swagger
+- 📬 Email notification integration
+- 🗂️ End-to-end delivery managed independently using Kanban
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**BSc Honours — Computer Science & Information Technology** · NWU · 2023
+
+- Honours Research Report (70%): CNN image classifier using TensorFlow — data preprocessing, model design, training, and evaluation
+- Artificial Intelligence I — **79% (Distinction)**
+- Artificial Intelligence II — **84% (Distinction)**
+
+**BSc — Information Technology** · NWU · 2020–2022
+
+- Object-Oriented Programming — **93% (Distinction)**
+- Structured Programming — **87% (Distinction)**
+- User Interface Programming — **83% (Distinction)**
+
+---
+
+## 💼 Experience
+
+**IT Support Intern** · North West Cooperative Governance and Traditional Affairs · Jul 2023 – Jun 2026
+
+- Diagnosed and resolved hardware, software, and network issues in a large-scale enterprise environment
+- Maintained reliable access to critical systems across a broad user base
+- Collaborated with senior IT professionals within structured technical frameworks
+
+---
+
+## 📊 At a glance
+
+| | |
+|---|---|
+| 🏅 Oracle OCI certifications | 4 (2 Professional, 2 Associate) |
+| 💻 Commits on GovHelp Desk | 137+ |
+| 🔗 REST endpoints built & documented | 20+ |
+| 🧠 AI distinctions | 79% and 84% |
+| 📅 IT support experience | 3 years |
+
+---
+
+<div align="center">
+
+*Open to backend, cloud, and platform engineering roles in South Africa.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tebohogivenmofokeng)
+
+</div>
