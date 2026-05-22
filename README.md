@@ -76,7 +76,7 @@ BSc Honours graduate in Computer Science (NWU) building production-style backend
 
 ## 🚀 Featured Project
 
-### [GovHelp Desk — IT Helpdesk & Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
+### [GovHelp Desk - IT Helpdesk & Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
 
 > Production-style REST API independently designed, built, tested, and containerised.
 
@@ -98,17 +98,17 @@ BSc Honours graduate in Computer Science (NWU) building production-style backend
 
 ## 🎓 Education
 
-**BSc Honours — Computer Science & Information Technology** · NWU · 2023
+**BSc Honours - Computer Science & Information Technology** · NWU · 2023
 
-- Honours Research Report (70%): CNN image classifier using TensorFlow — data preprocessing, model design, training, and evaluation
-- Artificial Intelligence I — **79% (Distinction)**
-- Artificial Intelligence II — **84% (Distinction)**
+- Honours Research Report (70%): CNN image classifier using TensorFlow - data preprocessing, model design, training, and evaluation
+- Artificial Intelligence I - **79% (Distinction)**
+- Artificial Intelligence II - **84% (Distinction)**
 
-**BSc — Information Technology** · NWU · 2020–2022
+**BSc - Information Technology** · NWU · 2020-2022
 
-- Object-Oriented Programming — **93% (Distinction)**
-- Structured Programming — **87% (Distinction)**
-- User Interface Programming — **83% (Distinction)**
+- Object-Oriented Programming - **93% (Distinction)**
+- Structured Programming - **87% (Distinction)**
+- User Interface Programming - **83% (Distinction)**
 
 ---
 
