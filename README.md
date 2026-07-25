@@ -2,7 +2,7 @@
 
 # Tebogo Given Mofokeng
 
-**Backend Developer · Java & Spring Boot · Cloud-Native**
+**Backend Developer · Java and Spring Boot · Cloud-Native**
 
 📍 Johannesburg, Gauteng, South Africa
 
@@ -76,7 +76,7 @@ BSc Honours graduate in Computer Science (NWU) building production-style backend
 
 ## 🚀 Featured Project
 
-### [GovHelp Desk - IT Helpdesk & Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
+### [GovHelp Desk - IT Helpdesk and Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
 
 > Production-style REST API independently designed, built, tested, and containerised.
 
