@@ -1,143 +1,102 @@
-<div align="center">
-
 # Tebogo Given Mofokeng
-
-**Backend Developer · Java and Spring Boot · Cloud-Native**
-
+ 
+**Full-Stack Developer · Java, Spring Boot & React · Cloud-Native**
 📍 Johannesburg, Gauteng, South Africa
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tebohogivenmofokeng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tebohogivenmofokeng)
-[![GitHub](https://img.shields.io/badge/GitHub-Mosotho888-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mosotho888)
-[![Email](https://img.shields.io/badge/Email-tebohogivenmofokeng%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tebohogivenmofokeng@gmail.com)
-
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/tebohogivenmofokeng/) · [GitHub](https://github.com/Mosotho888/Mosotho888) · [Email](mailto:tebohogivenmofokeng@gmail.com)
+ 
+BSc Honours graduate in Computer Science (NWU) who designs and ships production-style systems end to end, from Spring Boot APIs to React/TypeScript frontends, containerised and deployed on Oracle Cloud Infrastructure. Holder of four OCI certifications spanning DevOps, development, architecture, and foundations, currently seeking a software engineering role where I can contribute clean, well-tested code and keep sharpening my craft under experienced technical leads.
+ 
 ---
-
-BSc Honours graduate in Computer Science (NWU) building production-style backend systems with Java, Spring Boot, and Oracle Cloud Infrastructure. Four Oracle OCI certifications spanning DevOps, development, architecture, and foundations. Currently seeking a software engineering role where I can contribute clean, maintainable code and keep growing under experienced technical leads.
-
----
-
+ 
 ## 🏅 Oracle Cloud Infrastructure Certifications
-
+ 
 | Certification | Level | Issued | Valid Until |
 |---|---|---|---|
 | OCI 2025 Certified DevOps Professional | Professional | Oct 2025 | Oct 2027 |
 | OCI 2025 Certified Developer Professional | Professional | Oct 2025 | Oct 2027 |
-| OCI 2025 Certified Architect Associate | Associate | Sep 2025 | Active |
+| OCI 2025 Certified Architect Associate | Associate | Sep 2025 | Sept 2027 |
 | OCI 2025 Certified Foundations Associate | Associate | Jul 2025 | Jul 2027 |
-
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20DevOps%20Professional-C74634?style=flat&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20Developer%20Professional-C74634?style=flat&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20Architect%20Associate-C74634?style=flat&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-C74634?style=flat&logo=oracle&logoColor=white)
-
+ 
 ---
-
+ 
 ## 🛠️ Tech Stack
-
+ 
 **Languages**
-
-![Java](https://img.shields.io/badge/Java-Primary-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=flat&logo=hibernate&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
+Java · Python · C# · TypeScript · JavaScript · SQL
+ 
+**Backend**
+Spring Boot · Spring Security · Hibernate · ASP.NET
+ 
+**Frontend**
+React · Vite · TanStack Query · TanStack Table · shadcn/ui · React Hook Form · Zod · Tailwind CSS
+ 
 **Cloud & DevOps**
-
-![OCI](https://img.shields.io/badge/Oracle%20OCI-C74634?style=flat&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat&logo=githubactions&logoColor=white)
-
+OCI (Compute, ARM VMs) · Docker · GitHub Actions CI/CD · Nginx · Cloudflare
+ 
 **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Testing & Tooling**
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
+PostgreSQL · MySQL · MongoDB
+ 
+**Testing, Messaging & Tooling**
+JUnit · Swagger/OpenAPI · Postman · Git · Maven · RabbitMQ · Prometheus/Grafana
+ 
 ---
-
+ 
 ## 🚀 Featured Project
-
-### [GovHelp Desk - IT Helpdesk and Ticketing System API](https://github.com/Mosotho888/GovHelp_Desk)
-
-> Production-style REST API independently designed, built, tested, and containerised.
-
-- 🔐 JWT authentication and role-based access control (RBAC)
-- 📨 Asynchronous messaging via RabbitMQ between services
-- 🐳 Containerised infrastructure with Docker Compose
-- 📄 20+ RESTful endpoints fully documented with Swagger
-- 📬 Email notification integration
-- 🗂️ End-to-end delivery managed independently using Kanban
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
+ 
+### GovHelpDesk: IT Helpdesk and Ticketing System
+**Full-stack, production-deployed application, independently designed, built, tested, and shipped end to end.**
+ 
+Live at **govhelpdesk.sothoman.com**
+ 
+**Backend (Spring Boot)**
+- 🔐 JWT authentication with refresh token rotation and access-token blacklisting
+- 📨 Asynchronous messaging via RabbitMQ using a transactional outbox pattern (audit, email, SLA, and reset queues)
+- ⏱️ SLA tracking with business-hours calculation and breach detection
+- 🛡️ IDOR-safe, actor-aware repository queries and role-tiered rate limiting (Bucket4j)
+- 📄 20+ RESTful endpoints, fully documented with OpenAPI/Swagger
+- 📊 Structured JSON logging, Micrometer/Prometheus metrics, Grafana dashboards
+**Frontend (React + TypeScript)**
+- Built from scratch with Vite, TanStack Query/Table, shadcn/ui, React Hook Form, and Zod
+- Full feature parity with the backend: auth, tickets, comments, attachments, agent workflows, user administration, SLA display, and audit logs
+**Infrastructure**
+- 🐳 Dockerised end to end, deployed to an OCI ARM VM via GitHub Actions CI/CD
+- Cloudflare-managed DNS/TLS, Nginx reverse proxy, live monitoring stack
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `RabbitMQ` `Docker` `JWT` `OCI`
+ 
 ---
-
+ 
 ## 🎓 Education
-
-**BSc Honours - Computer Science & Information Technology** · NWU · 2023
-
-- Honours Research Report (70%): CNN image classifier using TensorFlow - data preprocessing, model design, training, and evaluation
-- Artificial Intelligence I - **79% (Distinction)**
-- Artificial Intelligence II - **84% (Distinction)**
-
-**BSc - Information Technology** · NWU · 2020-2022
-
-- Object-Oriented Programming - **93% (Distinction)**
-- Structured Programming - **87% (Distinction)**
-- User Interface Programming - **83% (Distinction)**
-
+ 
+**BSc Honours in Computer Science & Information Technology · NWU · 2023**
+- Honours Research Report (70%): CNN image classifier built with TensorFlow, covering data preprocessing, model design, training, and evaluation
+- Artificial Intelligence I: 79% (Distinction)
+- Artificial Intelligence II: 84% (Distinction)
+**BSc in Information Technology · NWU · 2020-2022**
+- Object-Oriented Programming: 93% (Distinction)
+- Structured Programming: 87% (Distinction)
+- User Interface Programming: 83% (Distinction)
 ---
-
+ 
 ## 💼 Experience
-
-**IT Support Intern** · North West Cooperative Governance and Traditional Affairs · Jul 2023 – Jun 2026
-
-- Diagnosed and resolved hardware, software, and network issues in a large-scale enterprise environment
-- Maintained reliable access to critical systems across a broad user base
+ 
+**IT Support Intern · North West Department of Cooperative Governance and Traditional Affairs**
+*Seconded to Moses Kotane Local Municipality · Jul 2023 – Jun 2026*
+- Diagnosed and resolved hardware, software, and network issues across a large-scale enterprise environment
+- Maintained reliable access to critical systems for a broad user base
 - Collaborated with senior IT professionals within structured technical frameworks
-
 ---
-
-## 📊 At a glance
-
+ 
+## 📊 At a Glance
+ 
 | | |
 |---|---|
 | 🏅 Oracle OCI certifications | 4 (2 Professional, 2 Associate) |
-| 💻 Commits on GovHelp Desk | 137+ |
-| 🔗 REST endpoints built & documented | 20+ |
+| 💻 Commits on GovHelpDesk | 137+ |
+| 🔗 REST endpoints built and documented | 20+ |
+| 🖥️ Full-stack app in production | GovHelpDesk (govhelpdesk.sothoman.com) |
 | 🧠 AI distinctions | 79% and 84% |
 | 📅 IT support experience | 3 years |
-
----
-
-<div align="center">
-
-*Open to backend, cloud, and platform engineering roles in South Africa.*
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tebohogivenmofokeng)
-
-</div>
+ 
+**Open to backend, full-stack, and cloud/platform engineering roles in South Africa.**
+ 
+[LinkedIn](https://www.linkedin.com/in/tebohogivenmofokeng/)
