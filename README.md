@@ -4,7 +4,7 @@
 📍 Johannesburg, Gauteng, South Africa
 [LinkedIn](https://www.linkedin.com/in/tebohogivenmofokeng/) · [GitHub](https://github.com/Mosotho888/Mosotho888) · [Email](mailto:tebohogivenmofokeng@gmail.com)
  
-BSc Honours graduate in Computer Science (NWU) who designs and ships production-style systems end to end, from Spring Boot APIs to React/TypeScript frontends, containerised and deployed on Oracle Cloud Infrastructure. Holder of four OCI certifications spanning DevOps, development, architecture, and foundations, currently seeking a software engineering role where I can contribute clean, well-tested code and keep sharpening my craft under experienced technical leads.
+BSc Honours graduate in Computer Science (NWU) who designs and ships production-style systems end-to-end, from Spring Boot APIs to React/TypeScript frontends, containerised and deployed on Oracle Cloud Infrastructure. Holder of four OCI certifications spanning DevOps, development, architecture, and foundations, currently seeking a software engineering role where I can contribute clean, well-tested code and keep sharpening my craft under experienced technical leads.
  
 ---
  
@@ -43,10 +43,10 @@ JUnit · Swagger/OpenAPI · Postman · Git · Maven · RabbitMQ · Prometheus/Gr
  
 ## 🚀 Featured Project
  
-### GovHelpDesk: IT Helpdesk and Ticketing System
-**Full-stack, production-deployed application, independently designed, built, tested, and shipped end to end.**
+### [GovHelpDesk: IT Helpdesk and Ticketing System](https://github.com/Mosotho888/GovHelp_Desk)
+**Full-stack, production-deployed application, independently designed, built, tested, and shipped end-to-end.**
  
-Live at **govhelpdesk.sothoman.com**
+Live at [**govhelpdesk.sothoman.com**](https://govhelpdesk.sothoman.com)
  
 **Backend (Spring Boot)**
 - 🔐 JWT authentication with refresh token rotation and access-token blacklisting
@@ -59,7 +59,7 @@ Live at **govhelpdesk.sothoman.com**
 - Built from scratch with Vite, TanStack Query/Table, shadcn/ui, React Hook Form, and Zod
 - Full feature parity with the backend: auth, tickets, comments, attachments, agent workflows, user administration, SLA display, and audit logs
 **Infrastructure**
-- 🐳 Dockerised end to end, deployed to an OCI ARM VM via GitHub Actions CI/CD
+- 🐳 Dockerised end-to-end, deployed to an OCI ARM VM via GitHub Actions CI/CD
 - Cloudflare-managed DNS/TLS, Nginx reverse proxy, live monitoring stack
 `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `RabbitMQ` `Docker` `JWT` `OCI`
  
